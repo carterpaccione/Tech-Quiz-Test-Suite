@@ -10,4 +10,10 @@ describe('<Quiz />', () => {
         cy.mount(<Quiz />);
         cy.get('button').should('have.text', 'Start Quiz');
     });
+
+    it('should start the quiz when the start quiz button is clicked', () => {
+        cy.mount(<Quiz />);
+        cy.get('button').click();
+        cy.get('button').first().should('have.text', '1');
+    });
 });
