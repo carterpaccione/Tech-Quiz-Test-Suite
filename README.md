@@ -31,7 +31,7 @@ Carter Paccione
 
 ## Tests
 
-npm run cypress
+Demo: [![Demo Video](https://drive.google.com/file/d/1VG43WYlAW0wPK-D37lNBTcOkiqDAtUMO/view?usp=sharing)](https://drive.google.com/file/d/150itE_d8H2JUYa9yVlCverEQ7tYwWGe7/view?usp=drive_link)
 
 
 Quiz Component:
