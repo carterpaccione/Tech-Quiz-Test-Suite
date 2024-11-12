@@ -40,6 +40,8 @@ It should render the Quiz component.
 
 It should render the start quiz button before the quiz is started.
 
+It should start the quiz when the start quiz button is clicked.
+
 End to End:
 
 It should retrieve data from API request.
